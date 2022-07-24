@@ -76,7 +76,8 @@ class GraphDraw extends JFrame {
     }
 }
 
-public class CS3_4_20190515 {
+public class Disk_Scheduling
+ {
     static int requestNum = 0;
     public static ArrayList<Integer> requests = new ArrayList<Integer>();
     public static ArrayList<Integer> temprequests = new ArrayList<Integer>();
