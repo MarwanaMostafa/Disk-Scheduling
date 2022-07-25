@@ -38,8 +38,8 @@ i have two mehtod to run command line and GUI
 
 ## Output :
 
-![ ](Disk Scheduling.png)
-    
+![](Disk Scheduling.png)
+
 
 ## See also :
  * ### [DeadLock](https://github.com/MarwanaMostafa/DeadLock)
