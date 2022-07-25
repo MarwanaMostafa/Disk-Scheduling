@@ -639,23 +639,22 @@ public class Disk_Scheduling
         String temp = JOptionPane.showInputDialog(null, "Enter Initial head");
         intialHead = Integer.parseInt(temp);
 
-        // temp = JOptionPane.showInputDialog(null, "Enter NumberOfRequest");
-        // int NumberOfRequests = Integer.parseInt(temp);
-
-        // for (int i = 0; i < NumberOfRequests; i++) {
-        // temp = JOptionPane.showInputDialog(null, "Enter Request" + i);
-        // requests.add(Integer.parseInt(temp));
-        // }
+         temp = JOptionPane.showInputDialog(null, "Enter NumberOfRequest");
+         int NumberOfRequests = Integer.parseInt(temp);
+         for (int i = 0; i < NumberOfRequests; i++) {
+         temp = JOptionPane.showInputDialog(null, "Enter Request" + i);
+         requests.add(Integer.parseInt(temp));
+         }
 
         // ex lec ,we write these to save time
-        requests.add(98);
-        requests.add(183);
-        requests.add(37);
-        requests.add(122);
-        requests.add(14);
-        requests.add(124);
-        requests.add(65);
-        requests.add(67);
+        //requests.add(98);
+        //requests.add(183);
+        //requests.add(37);
+        //requests.add(122);
+        //requests.add(14);
+        //requests.add(124);
+        //requests.add(65);
+        //requests.add(67);
 
         temprequests = requests;
         temp = JOptionPane.showInputDialog(null, "Enter Number of direction which 1-Right 2- Left :");
