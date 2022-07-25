@@ -38,7 +38,7 @@ i have two mehtod to run command line and GUI
 
 ## Output :
 
-![Disk Scheduling]
+![](Disk Scheduling)
     
 
 ## See also :
