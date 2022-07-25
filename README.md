@@ -38,7 +38,7 @@ i have two mehtod to run command line and GUI
 
 ## Output :
 
-![](Output.png)
+![](output.png)
 
 
 ## See also :
